@@ -34,7 +34,6 @@ public class Employee {
         this.phone = phone;
         this.age = age;
             }
-            public void getInfo(){
-        System.out.println("New employee "+fullName+" position:"+position+" email:"+email+" phone:"+phone+ " age:"+age);
+
     }
-}
+
